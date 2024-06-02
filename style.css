@@ -1,0 +1,15 @@
+.copy_right_footer{
+    position: fixed;
+    color:rgb(112, 49, 13);
+    background-color: bisque;
+    bottom:0 ;
+    width:100% ;
+}
+.note{
+    font-size:21px ;
+
+}
+h3{
+background-color: bisque;
+
+}
